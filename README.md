@@ -4,7 +4,7 @@ The following blog posts on passwords explain the statistical signifigance of th
 
 [Statistics Will Crack Your Password](https://www.praetorian.com/blog/statistics-will-crack-your-password-mask-structure)
 
-[Praetorian Password Cracking Rules Released](https://www.praetorian.com/blog/password-rules-released)
+[Praetorian Password Cracking Rules Released](https://www.praetorian.com/blog/hob064-statistics-based-password-cracking-rules-hashcat-d3adhob0)
 
 Useful wordlists to utilize with these rules have been included in the wordlists directory 
 
