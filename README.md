@@ -6,15 +6,11 @@ The following blog posts on passwords explain the statistical signifigance of th
 
 [Praetorian Password Cracking Rules Released](https://www.praetorian.com/blog/password-rules-released)
 
-Useful wordlists to utilize with these rules can be downloaded from the following locations:
-
-[Rockyou Password Dump](http://downloads.skullsecurity.org/passwords/rockyou.txt.bz2)
-
-[English Wordlist](http://downloads.skullsecurity.org/passwords/english.txt.bz2)
+Useful wordlists to utilize with these rules have been included in the wordlists directory 
 
 Uncompress these with the unfollowing command 
 ```
-tar -zxjf rockyou.txt.bz2
+gunzip rockyou.txt.gz
 ```
 ##hob064 
 This ruleset contains 64 of the most frequent password patterns used to crack passwords. Need a hash cracked quickly to move on to more testing? Use this list.
