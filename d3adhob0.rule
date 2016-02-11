@@ -1,6 +1,6 @@
 #############################################
 # ***      Hob0's Rules for Conquest    *** #
-# ***          Updated: 2/9/16          *** #
+# ***          Updated: 2/10/16         *** #
 #############################################
 :
 c
@@ -28727,7 +28727,6 @@ c so0 sa4
 c so0 se3
 c so0 ss$
 c sa@so0si1
-c sa@so0se3
 c so0se3si1
 c sa@se3si1
 c sa@so0si!
@@ -28754,3 +28753,22 @@ c so0 si1 se3 ss$ sa@ $2 $0 $1 $6
 c so0 si1 se3 ss$ sa@ $2 $0 $1 $6 $!
 c ^5 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
 c ^6 ^1 ^0 ^2 so0 si1 se3 ss$ sa@ 
+c ^0
+c ^1
+c ^2
+c ^3
+c ^4
+c ^5
+c ^6
+c ^7
+c ^8
+c ^9
+c ^!
+c ^@
+c ^#
+c ^$
+c ^%
+c ^^
+c ^&
+c ^*
+c ^?
